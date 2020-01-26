@@ -5,3 +5,11 @@
 - git status
 - git add
 - git commit[C+d
+ git basic
+ github exercises
+ # hello
+ * some bullet points here
+
+ ## hello
+ ### hello
+ text body
